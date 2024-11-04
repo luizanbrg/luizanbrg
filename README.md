@@ -7,6 +7,7 @@ These are some of my projects:
 - ⌨️ [Login Page](https://github.com/luizanbrg/login-auth-api) - A simple login page in Java using JWT authentication and Spring Security
 - ⭕️ [TicTacToe](https://github.com/luizanbrg/tictactoe) - TicTacToe game using JSwing
 - 💭 [Portfolio](https://github.com/luizanbrg/portfolio-luiza) - My portfolio using HTML and CSS, only front-end
+- 📝 [Hangman CLI Game](https://github.com/luizanbrg/hangman) - The Hangman game written in Java for a class exercise
 
 And my very first project, done in Ruby on Rails with a group of 3 people:
 - 🐶 [DoggyNb](https://github.com/luizanbrg/doggynb2) - A RESTful API where you can find dogs to snuggle :)
