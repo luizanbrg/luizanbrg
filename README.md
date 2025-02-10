@@ -1,8 +1,9 @@
 ## Hello everyone 🤗
 
-My name is Luiza, and I'm currently studying software architecture and developpement at Epitech, in Nice, France. I've been coding for a few months now and I'm already in love with Java, but I also like Node.js and Python a lot. 🌹
+My name is Luiza, and I'm currently studying software architecture and developpement at Epitech, in Nice, France. I've been coding for a few months now and I'm already in love with Java, but I also like Python a lot. 🌹
 
 These are some of my projects:
+- 🗣️ [IRC Chat](https://github.com/yanamlnk/irc-server) - An IRC chat using Socket.IO with persistent msg saving, done with the MERN stack and Jest.
 - 🪧 [Football Tournament](https://github.com/luizanbrg/test_technique) - A website to enter data and calculate the ranking of a 
 fictitious football tournament, in Django and Django Rest Framework, done in 3 days only. 
 - 🪧 [JobBoard](https://github.com/luizanbrg/jobBoard) - A duo project of a web application for a site with job offers (Node.js, React)
